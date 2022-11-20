@@ -1,6 +1,6 @@
 ![MasterHead](https://img.freepik.com/free-photo/gradient-dark-blue-futuristic-digital-grid-background_53876-129728.jpg?w=1480&t=st=1658905099~exp=1658905699~hmac=ef01d49702e52c32bc2559c12355cf751071bbb7a45bbe973d78112164236ae3)
 <h1 align="center">Hi 👋</br> I'm Tomasz Czerwiński</h1>
-<h3 align="center">A passionate web dev wonnabe from Poland</h3>
+<h3 align="center">A passionate web dev from Poland</h3>
 
 
 <h4 align="left">Languages and Tools:</h4>
